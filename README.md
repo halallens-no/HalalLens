@@ -28,8 +28,7 @@
 | Feature | HalalLens | Others |
 |---------|-----------|--------|
 | **Price** | 100% Free | $4.99-29.99/year |
-| **Languages** | 14 languages | 1-3 languages |
-| **Ads** | Zero ads | Ad-supported |
+| **Languages** | 14-59 languages | 1-3 languages |
 | **Offline** | Works offline | Internet required |
 | **OCR Scanner** | AI camera scan | Barcode only |
 | **E-Number Database** | Complete E-number guide | Limited |
