@@ -97,7 +97,6 @@ English, Norsk, Arabic, Indonesian, Malay, Deutsch, Francais, Svenska, Dansk, Tu
 ## Privacy
 
 HalalLens respects your privacy:
-- No ads, no tracking, no data selling
 - GDPR compliant (hosted in Norway)
 - Offline mode available
 - Open source companion apps
